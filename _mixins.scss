@@ -60,6 +60,7 @@
     background-image:               -o-linear-gradient(left, $fromColor $fromPercent, $toColor $toPercent); /* Opera 11.10+ */
     background-image:                   linear-gradient(to right,  $fromColor $fromPercent, $toColor $toPercent); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,StartColorStr='#{ie-hex-str($fromColor)}', EndColorStr='#{ie-hex-str($toColor)}'); /* IE6-9 */
+}
 
 /*========================================
 
