@@ -1,4 +1,5 @@
-Colection of sass mixins and code snippets for the following:
+#SASS mixins
+Colection of SASS mixins and code snippets for the following:
 
   - Cross Browser Opacity
   - Cross Browser REM Font Size Calculator
