@@ -13,3 +13,4 @@ Colection of SASS mixins and code snippets for the following:
   - Vertical Centering
   - Cross Browser Keyframe Animations
   - Vertical Scrolling
+  - Background image aspect ratio 
