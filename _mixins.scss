@@ -220,11 +220,11 @@
 
 /*========================================
 
-    Aspect ratio
+    Background image aspect ratio
 
 ========================================*/
 
-@mixin aspect-ratio($width, $height) {
+@mixin aspectRatio($width, $height) {
     position: relative;
     &:before {
         display: block;
