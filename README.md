@@ -8,9 +8,9 @@ Colection of SASS mixins and code snippets for the following:
   - Inline and Block Lists
   - Clearfix
   - Placeholder Text
-  - Transitions
   - Background Images
   - Vertical Centering
   - Cross Browser Keyframe Animations
   - Vertical Scrolling
-  - Background image aspect ratio 
+  - Background Image Aspect Ratio 
+  - Responsive Fonts
